@@ -15,8 +15,8 @@
 |  14  | [Activity 15](https://github.com/Tetrixstreams/CS121-S23-CASE/tree/main/newacts/src) | Activity 15 deals with arrays where you ask the user for input for the arrays and prints the contents. |
 |  15  | [Activity 16](https://github.com/Tetrixstreams/CS121-S23-CASE/tree/main/multidemensionalarrays/src) | Activity 16 where you create 3 multidemensional arrays that loop through eachother. |
 |  16  | [Activity 19](https://github.com/Tetrixstreams/CS121-S23-CASE/tree/main/Acts%20im%20behind%20in/src/Inheritance) | Activity 19 was inheritance where you would have a superclass, 2 subclasses, and getters and setters. |
-|  17  | [Activity 23](links it) | Activity 23 was recursion where it detected palindrome that returned true if the was word was the same forward and backward. |
-|  18  | [Activity 24](links it) | Activity 24 was a Big O activity where we made programs that ran in different times. |
+|  17  | [Activity 23](Blaine has it) | Activity 23 was recursion where it detected palindrome that returned true if the was word was the same forward and backward. |
+|  18  | [Activity 24](Blaine has it) | Activity 24 was a Big O activity where we made programs that ran in different times. |
 |  19  | [Activity 25](https://github.com/Tetrixstreams/CS121-S23-CASE/tree/main/Acts%20im%20behind%20in/src) | Activity 25 was a bubble and merge sort where you add 5 integers and get them sorted using different methods. |
 |  20  | [Activity 26](https://github.com/Tetrixstreams/CS121-S23-CASE/tree/main/Acts%20im%20behind%20in/src) | Activity 26 was a selection and insertion sorting method using either of those to sort the arrays. |
 |  21  | [Activity 27](https://github.com/Tetrixstreams/CS121-S23-CASE/tree/main/Acts%20im%20behind%20in/src) | Activity 27 was a binary search where you had an array list that got sorted using a binary method. |
