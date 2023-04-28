@@ -15,20 +15,17 @@
 |  14  | [Activity 15](https://github.com/Tetrixstreams/CS121-S23-CASE/tree/main/newacts/src) | Activity 15 deals with arrays where you ask the user for input for the arrays and prints the contents. |
 |  15  | [Activity 16](https://github.com/Tetrixstreams/CS121-S23-CASE/tree/main/multidemensionalarrays/src) | Activity 16 where you create 3 multidemensional arrays that loop through eachother. |
 |  16  | [Activity 19](https://github.com/Tetrixstreams/CS121-S23-CASE/tree/main/Acts%20im%20behind%20in/src/Inheritance) | Activity 19 was inheritance where you would have a superclass, 2 subclasses, and getters and setters. |
-|  17  | [Activity 23](Blaine has it) | Activity 23 was recursion where it detected palindrome that returned true if the was word was the same forward and backward. |
-|  18  | [Activity 24](Blaine has it) | Activity 24 was a Big O activity where we made programs that ran in different times. |
-|  19  | [Activity 25](https://github.com/Tetrixstreams/CS121-S23-CASE/tree/main/Acts%20im%20behind%20in/src) | Activity 25 was a bubble and merge sort where you add 5 integers and get them sorted using different methods. |
-|  20  | [Activity 26](https://github.com/Tetrixstreams/CS121-S23-CASE/tree/main/Acts%20im%20behind%20in/src) | Activity 26 was a selection and insertion sorting method using either of those to sort the arrays. |
-|  21  | [Activity 27](https://github.com/Tetrixstreams/CS121-S23-CASE/tree/main/Acts%20im%20behind%20in/src) | Activity 27 was a binary search where you had an array list that got sorted using a binary method. |
-|  22  | [Activity 28](https://github.com/Tetrixstreams/CS121-S23-CASE/tree/main/Acts%20im%20behind%20in/src) | Activity 28 was a sets and iterators assignment where you had a student assign a number and a method that displayed the student depending on the number. |
-|  23  | [Activity 29](https://github.com/Tetrixstreams/CS121-S23-CASE/tree/main/Acts%20im%20behind%20in/src) | Activity 29 was generics where we had to create multiple different ways to print 1-5 in an array list. |
-|  24  | [Activity 30](https://github.com/Tetrixstreams/CS121-S23-CASE/tree/main/Acts%20im%20behind%20in/src) | Activity 30 was hashmaps where you can add, move, and remove variables in a hashmap. |
-|  25  | [Activity 31](https://github.com/Tetrixstreams/CS121-S23-CASE/tree/main/LinkedListsActivity/src) | Activity 31 was linked lists with instance variables for details on students a linked lists of courses that you could add to or remove. |
-|  26  | [Activity 32](https://github.com/Tetrixstreams/CS121-S23-CASE/tree/main/StackBracket/src) | Activity 32 was stacks and you looped through a string that dealt with brackets and it helped balance them. |
-|  27  | [Activity 33](https://github.com/Tetrixstreams/CS121-S23-CASE/tree/main/LinkedListsActivity/src) | Activity 33 used queues to add and remove names from a list. |
-|  28  | [Activity 34](https://github.com/Tetrixstreams/CS121-S23-CASE/tree/main/dateFormat/src) | Activity 34 was a simple date format that helped you create a diet plan. |
-|  29  | [Activity 36](https://github.com/Tetrixstreams/CS121-S23-CASE/tree/main/StringBuilderActivity/src) | Activity 36 used string building to create an array of customers that you could add to and display. |
-
+|  17  | [Activity 25](https://github.com/Tetrixstreams/CS121-S23-CASE/tree/main/Acts%20im%20behind%20in/src) | Activity 25 was a bubble and merge sort where you add 5 integers and get them sorted using different methods. |
+|  18  | [Activity 26](https://github.com/Tetrixstreams/CS121-S23-CASE/tree/main/Acts%20im%20behind%20in/src) | Activity 26 was a selection and insertion sorting method using either of those to sort the arrays. |
+|  19  | [Activity 27](https://github.com/Tetrixstreams/CS121-S23-CASE/tree/main/Acts%20im%20behind%20in/src) | Activity 27 was a binary search where you had an array list that got sorted using a binary method. |
+|  20  | [Activity 28](https://github.com/Tetrixstreams/CS121-S23-CASE/tree/main/Acts%20im%20behind%20in/src) | Activity 28 was a sets and iterators assignment where you had a student assign a number and a method that displayed the student depending on the number. |
+|  21  | [Activity 29](https://github.com/Tetrixstreams/CS121-S23-CASE/tree/main/Acts%20im%20behind%20in/src) | Activity 29 was generics where we had to create multiple different ways to print 1-5 in an array list. |
+|  22  | [Activity 30](https://github.com/Tetrixstreams/CS121-S23-CASE/tree/main/Acts%20im%20behind%20in/src) | Activity 30 was hashmaps where you can add, move, and remove variables in a hashmap. |
+|  23  | [Activity 31](https://github.com/Tetrixstreams/CS121-S23-CASE/tree/main/LinkedListsActivity/src) | Activity 31 was linked lists with instance variables for details on students a linked lists of courses that you could add to or remove. |
+|  24  | [Activity 32](https://github.com/Tetrixstreams/CS121-S23-CASE/tree/main/StackBracket/src) | Activity 32 was stacks and you looped through a string that dealt with brackets and it helped balance them. |
+|  25  | [Activity 33](https://github.com/Tetrixstreams/CS121-S23-CASE/tree/main/LinkedListsActivity/src) | Activity 33 used queues to add and remove names from a list. |
+|  26  | [Activity 34](https://github.com/Tetrixstreams/CS121-S23-CASE/tree/main/dateFormat/src) | Activity 34 was a simple date format that helped you create a diet plan. |
+|  27  | [Activity 36](https://github.com/Tetrixstreams/CS121-S23-CASE/tree/main/StringBuilderActivity/src) | Activity 36 used string building to create an array of customers that you could add to and display. |
 
 | Number | Project | Description |
 | :-: | - | - |
