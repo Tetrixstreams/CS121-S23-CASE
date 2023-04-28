@@ -1,0 +1,2 @@
+Activity 36 was an array list of customers where I needed a method to add to this list. Along with that I needed another method to return the data in the list. I had to 
+use string builder for the method because it's more efficient. I also needed a test class and an instance of the customer record class and call all the customers.
