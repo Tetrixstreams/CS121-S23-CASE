@@ -1,0 +1,3 @@
+The start of linked lists is easy where you create instance variables and return them. Then you need a constuctor and parameters for first name, last name, 
+ID, major, class standing. Then you need methods so you can add, remove, display and get the students info. Finally you need a main method with 2 instances of 
+the student class andd then add a class to their class list, print it, then you remove one and print it.
