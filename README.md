@@ -9,12 +9,12 @@
 |  7  | [Activity 8](https://github.com/Tetrixstreams/CS121-S23-CASE/tree/main/lab2/src) | Activity 8 had nested loops by using all test scores and creating an average.  |
 |  8  | [Activity 9](https://github.com/Tetrixstreams/CS121-S23-CASE/tree/main/lab2/src) | Activity 9 uses random numebrs by assigning a color to a number and makign the user guess what the color is. |
 |  9  | [Activity 10](https://github.com/Tetrixstreams/CS121-S23-CASE/tree/main/fileActivity/src) | Activity 10 uses file reading and takes in values on one program and transfers it to another. |
-|  10  | [Activity 11](links it) | Activity 11 uses methods to get the length, width, and area of a rectangle and prints it. |
-|  11  | [Activity 12](links it) | Activity 12 takes some variables and pritns a value while also a test class that calls all the methods from each class. |
-|  12  | [Activity 13](links it) | Activity 13 has you make a package with methods and variables inside and a test class where you create a new instance of the class  and allowing you to see all the variables. |
+|  10  | [Activity 11](https://github.com/Tetrixstreams/CS121-S23-CASE/tree/main/Pokemon%20Battle/src) | Activity 11 uses methods to get the length, width, and area of a rectangle and prints it. |
+|  11  | [Activity 12](https://github.com/Tetrixstreams/CS121-S23-CASE/tree/main/newacts/src) | Activity 12 takes some variables and pritns a value while also a test class that calls all the methods from each class. |
+|  12  | [Activity 13](https://github.com/Tetrixstreams/CS121-S23-CASE/tree/main/Packages/src/packagesDemo) | Activity 13 has you make a package with methods and variables inside and a test class where you create a new instance of the class  and allowing you to see all the variables. |
 |  14  | [Activity 15](https://github.com/Tetrixstreams/CS121-S23-CASE/tree/main/newacts/src) | Activity 15 deals with arrays where you ask the user for input for the arrays and prints the contents. |
 |  15  | [Activity 16](https://github.com/Tetrixstreams/CS121-S23-CASE/tree/main/multidemensionalarrays/src) | Activity 16 where you create 3 multidemensional arrays that loop through eachother. |
-|  16  | [Activity 19](links it) | Activity 19 was inheritance where you would have a superclass, 2 subclasses, and getters and setters. |
+|  16  | [Activity 19](https://github.com/Tetrixstreams/CS121-S23-CASE/tree/main/Acts%20im%20behind%20in/src/Inheritance) | Activity 19 was inheritance where you would have a superclass, 2 subclasses, and getters and setters. |
 |  17  | [Activity 23](links it) | Activity 23 was recursion where it detected palindrome that returned true if the was word was the same forward and backward. |
 |  18  | [Activity 24](links it) | Activity 24 was a Big O activity where we made programs that ran in different times. |
 |  19  | [Activity 25](https://github.com/Tetrixstreams/CS121-S23-CASE/tree/main/Acts%20im%20behind%20in/src) | Activity 25 was a bubble and merge sort where you add 5 integers and get them sorted using different methods. |
