@@ -1,0 +1,2 @@
+Activity 26 had you use the previous sorting activity again but changing it so that it uses a different sorting method. You can use any of three sorting methods but you 
+need to take an array of integers as a parameter and return the sorted array. You input an unsorted array and it will sort it in the respective method you chose.
